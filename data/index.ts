@@ -215,3 +215,5 @@ export const socialMedia = [
     img: "/link.svg",
   },
 ];
+
+export const words = "Transforming Concepts into Seamless User Experiences";
