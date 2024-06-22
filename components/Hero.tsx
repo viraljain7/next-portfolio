@@ -34,7 +34,7 @@ const Hero = () => {
 
           <TextGenerateEffect
             words={words}
-            className="text-center  font-[40px] font-bold text-4xl md:text-6xl lg:text-7xl"
+            className="text-center  font-[40px]  text-4xl md:text-6xl lg:text-7xl"
           />
 
           <p className="text-center md:tracking-wider my-4 text-sm md:text-lg lg:text-2xl">
